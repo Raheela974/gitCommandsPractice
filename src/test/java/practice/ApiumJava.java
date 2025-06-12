@@ -6,7 +6,7 @@ public class ApiumJava {
 	
 	@Test
 	public void apiumJavaTest1() {
-		System.out.println("apiumJavaTest1");
+		System.out.println("apiumJavaTests1");
 	}
 	
 	@Test
