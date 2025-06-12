@@ -11,7 +11,7 @@ public class ApiumJava {
 	
 	@Test
 	public void apiumJavaTest2() {
-		System.out.println("apiumJavaTest2");
+		System.out.println("apiumJavaTests2");
 	}
 
 }
